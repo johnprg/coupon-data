@@ -1,5 +1,8 @@
 ### Will a Customer Accept the Coupon?
 
+**Source**
+This description and the initial prompt Jupyter notebook are from the Berkeley Haas Professional Certificate in Machine Learning and Artificial Intelligence program.  This is Assignment 5.1.  Here is a link to [information about the program](https://em-executive.berkeley.edu/professional-certificate-machine-learning-artificial-intelligence).
+
 **Context**
 
 Imagine driving through town and a coupon is delivered to your cell phone for a restaraunt near where you are driving. Would you accept that coupon and take a short detour to the restaraunt? Would you accept the coupon but use it on a sunbsequent trip? Would you ignore the coupon entirely? What if the coupon was for a bar instead of a restaraunt? What about a coffee house? Would you accept a bar coupon with a minor passenger in the car? What about if it was just you and your partner in the car? Would weather impact the rate of acceptance? What about the time of day?
