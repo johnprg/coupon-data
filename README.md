@@ -1,6 +1,7 @@
 ### Will a Customer Accept the Coupon?
 
 **Source**
+
 This description and the initial prompt Jupyter notebook are from the Berkeley Haas Professional Certificate in Machine Learning and Artificial Intelligence program.  This is Assignment 5.1.  Here is a link to [information about the program](https://em-executive.berkeley.edu/professional-certificate-machine-learning-artificial-intelligence).
 
 **Context**
