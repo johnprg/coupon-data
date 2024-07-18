@@ -1,8 +1,10 @@
-### Will a Customer Accept the Coupon?
+### Coupon Data Exploration
 
 **Source**
 
 This description and the initial prompt Jupyter notebook are from the Berkeley Haas Professional Certificate in Machine Learning and Artificial Intelligence program.  This is Assignment 5.1.  Here is a link to [information about the program](https://em-executive.berkeley.edu/professional-certificate-machine-learning-artificial-intelligence).
+
+### Assignment: Will a Customer Accept the Coupon?
 
 **Context**
 
@@ -16,4 +18,6 @@ The goal of this project is to use this data to distinguish between customers wh
 
 **Data**
 
-This data comes to us from the UCI Machine Learning repository and was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios including the destination, current time, weather, passenger, etc., and then ask the person whether he will accept the coupon if he is the driver. Answers that the user will drive there ‘right away’ or ‘later before the coupon expires’ are labeled as ‘Y = 1’ and answers ‘no, I do not want the coupon’ are labeled as ‘Y = 0’.  There are five different types of coupons -- less expensive restaurants (under \\$20), coffee houses, carry out & take away, bar, and more expensive restaurants (\\$20 - \\$50). 
+This data comes to us from the UCI Machine Learning repository and was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios including the destination, current time, weather, passenger, etc., and then ask the person whether he will accept the coupon if he is the driver. Answers that the user will drive there ‘right away’ or ‘later before the coupon expires’ are labeled as ‘Y = 1’ and answers ‘no, I do not want the coupon’ are labeled as ‘Y = 0’.  There are five different types of coupons -- less expensive restaurants (under $20), coffee houses, carry out & take away, bar, and more expensive restaurants ($20 - $50). 
+
+
